@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Custom Robots</string>
+    <string name="nav_drop">Navigation bar drop down</string>
+    <string name="button_home">Home</string>
+    <string name="button_build">Build</string>
+    <string name="button_login">Login</string>
+    <string name="button_videos">Videos</string>
+    <string name="button_images">Images</string>
+    <string name="image_robot">Image with two robots, the robot on the left is an animal and the robot on the right is a amateur</string>
+    <string name="image_film">Image of a film strip</string>
+
+    <string name="insert_name">Name</string>
+    <string name="insert_age">Who is going to use this robot?</string>
+    <string name="radio_baby">Baby</string>
+    <string name="radio_kid">Kids (ages: 1 to 10)</string>
+    <string name="radio_preteen">Preteen (ages: 11 to 12)</string>
+    <string name="radio_teen">Teenager (ages: 13 to 19)</string>
+    <string name="radio_adult">Adult (ages: 20 to 64)</string>
+    <string name="radio_student">Student</string>
+    <string name="radio_senior">Senior (ages: 64 >)</string>
+
+    <string name="robot_size">What size would you like this robot to be?</string>
+    <string name="size_xsmall">Extra-Small</string>
+    <string name="size_small">Small</string>
+    <string name="size_medium">Medium</string>
+    <string name="size_large">Large</string>
+    <string name="size_xlarge">Extra-Large</string>
+
+    <string name="text_question">What is this robot going to be used for?</string>
+    <string name="check_clean">Cleaning</string>
+    <string name="check_sports">Sports</string>
+    <string name="check_work">Work</string>
+    <string name="check_school">School</string>
+    <string name="check_personal">Personal</string>
+    <string name="check_other">Other</string>
+
+    <string name="parts">Customize the parts needed</string>
+    <string name="clean_mop">Mopping</string>
+    <string name="clean_sweep">Sweeping</string>
+    <string name="clean_vaccum">Vaccuming</string>
+    <string name="clean_mow">Mowing</string>
+    <string name="clean_glass">Clean glasses</string>
+    <string name="clean_shoe">Clean shoes</string>
+    <string name="office_scan">Scanning</string>
+    <string name="office_shred">Shredding</string>
+    <string name="office_copy">Copying</string>
+    <string name="office_dial">Dial tone</string>
+    <string name="office_call">Phone calling</string>
+    <string name="school_take">Take notes</string>
+    <string name="school_read">Read notes</string>
+    <string name="sport_pick_table">Pick up table tennis balls</string>
+    <string name="sport_shoot_table">Throw out table tennis balls</string>
+    <string name="sport_pick_golf">Pick up golf balls</string>
+    <string name="sport_shoot_golf">Shoot out golf balls</string>
+    <string name="sport_pick_squash">Pick up squash balls</string>
+    <string name="sport_shoot_squash">Shoot out squash balls</string>
+    <string name="personal_voice">Voice active</string>
+    <string name="personal_music">Play music</string>
+    <string name="personal_wifi">Wi-Fi</string>
+    <string name="personal_heat">Heater</string>
+    <string name="personal_fan">Run a fan</string>
+
+    <string name="login">Login/Sign Up</string>
+    <string name="email">Insert email address</string>
+    <string name="password">Insert password</string>
+    <string name="Cont">Continue</string>
+    <string name="Signup">Sign Up</string>
+    <string name="facebook">Login with Facebook</string>
+</resources>
